@@ -1,0 +1,10 @@
+C:\Users\lenovopc\source\repos\PassaParola\PassaParola\bin\Debug\PassaParola.exe.config
+C:\Users\lenovopc\source\repos\PassaParola\PassaParola\bin\Debug\PassaParola.exe
+C:\Users\lenovopc\source\repos\PassaParola\PassaParola\bin\Debug\PassaParola.pdb
+C:\Users\lenovopc\source\repos\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.AssemblyReference.cache
+C:\Users\lenovopc\source\repos\PassaParola\PassaParola\obj\Debug\PassaParola.Form1.resources
+C:\Users\lenovopc\source\repos\PassaParola\PassaParola\obj\Debug\PassaParola.Properties.Resources.resources
+C:\Users\lenovopc\source\repos\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.GenerateResource.cache
+C:\Users\lenovopc\source\repos\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.CoreCompileInputs.cache
+C:\Users\lenovopc\source\repos\PassaParola\PassaParola\obj\Debug\PassaParola.exe
+C:\Users\lenovopc\source\repos\PassaParola\PassaParola\obj\Debug\PassaParola.pdb
